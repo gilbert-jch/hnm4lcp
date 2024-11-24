@@ -91,7 +91,8 @@ distributed.
 
 ### Download
 
-The code `Hnm4lcp` can be downloaded in a number of manners:
+The `Matlab` function `hnm4lcp` can be downloaded in a number of
+manners:
 - from a <a
   href="https://who.rocq.inria.fr/Jean-Charles.Gilbert/codes/hnm4lcp/hnm4lcp.html"
   target="_blank">personal site</a>,
