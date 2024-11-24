@@ -71,7 +71,8 @@ were available at the addresses
 
 The generation of some tables takes much computing time. For the
 description of the problems and for the meaning of columns of the table,
-see the DFG paper.
+see the <a href="http://hal.inria.fr/hal-02306526" target="_blank">DFG
+paper</a>.
 
 The problems can also be run individually using
 
