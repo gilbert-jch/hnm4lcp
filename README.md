@@ -1,7 +1,7 @@
 ### Description of the function
 
-`Hnm4lcp` is a `Matlab` function that can solve a linear complementarity
-problem (LCP) in its standard form, which reads
+`Hnm4lcp` is a `Matlab` function that computes a or the solution to a
+linear complementarity problem (LCP) in its standard form, which reads
 
 $$
 0 \leq x \perp (Mx+q) \geq 0,
