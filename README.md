@@ -46,8 +46,9 @@ This directory is structured as follows:
 
 ## Reproducing the paper tables
 
-An ascii version of (part of) table 4.x (for x in [1:10]) of the DFG
-paper can be obtained by running the script
+An ascii version of (part of) table 4.x (for x in [1:10]) of the [DFG
+paper](http://hal.inria.fr/hal-02306526) can be obtained by running the
+script
 
 >  test/certify_table(x,hnm4lcp,pathlcp,lcpsolve)
 
