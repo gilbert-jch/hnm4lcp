@@ -24,7 +24,7 @@ Matlab window.
 
 The code is assessed in section 4 of the paper (called DFG paper below)
 
-   Jean-Pierre Dussault, Mathieu Frappier, Jean Charles Gilbert (2024).
+>  Jean-Pierre Dussault, Mathieu Frappier, Jean Charles Gilbert (2024).
    'Polyhedral {Newton}-min algorithms for complementarity problems',
    Mathematical Programming (in revision). See also
    http://hal.inria.fr/hal-02306526.
@@ -49,7 +49,7 @@ This directory is structured as follows:
 An ascii version of (part of) table 4.x (for x in [1:10]) of the DFG
 paper can be obtained by running the script
 
-   test/certify_table(x,hnm4lcp,pathlcp,lcpsolve)
+>  test/certify_table(x,hnm4lcp,pathlcp,lcpsolve)
 
 The results of the codes `Hnm4lcp` (if hnm4lcp == true), Pathlcp (if
 pathlcp == true) and LCPsolve (if lcpsolve == true) are given, hence
@@ -59,8 +59,8 @@ LCPsolve are required, these pieces of software must have been
 installed. At the time this text was written, these pieces of software
 were available at the addresses
 
-   https://pages.cs.wisc.edu/~ferris/path.html
-   http://github.com/erleben/num4lcp
+>  https://pages.cs.wisc.edu/~ferris/path.html
+>  http://github.com/erleben/num4lcp
 
 The generation of some tables takes much computing time. For the
 description of the problems and for the meaning of columns of the table,
@@ -68,7 +68,7 @@ see the DFG paper.
 
 The problems can also be run individually using
 
-   test/main.m
+>  test/main.m
 
 but this script has not been cleaned up and is more messy.
 
