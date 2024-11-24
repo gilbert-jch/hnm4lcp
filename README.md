@@ -92,7 +92,7 @@ distributed.
 ### Download
 
 The code `Hnm4lcp` can be downloaded in a number of manners:
-- from personal: https://who.rocq.inria.fr/Jean-Charles.Gilbert/codes/hnm4lcp/hnm4lcp.html
+- from the personal site: https://who.rocq.inria.fr/Jean-Charles.Gilbert/codes/hnm4lcp/hnm4lcp.html
 - from Github:   https://github.com/gilbert-jch/hnm4lcp (this site)
 - from HAL:      https://hal.science/hal-04799965v1 (soon)
 - from SWH:      (soon)
