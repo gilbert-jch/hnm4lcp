@@ -1,9 +1,9 @@
 ## Description of the function
 
-Hnm4lcp is a Matlab code to solve a linear complementarity problem (LCP)
+`Hnm4lcp` is a Matlab code to solve a linear complementarity problem (LCP)
 of the form
 
-   0 =< x _|_ (M*x+q) >= 0,
+>  0 =< x _|_ (M*x+q) >= 0,
 
 where x in Rn is the real vector of unknowns, M in Rnxn and q in Rn is
 the data. This system means that the sought x must be nonnegative
@@ -51,7 +51,7 @@ paper can be obtained by running the script
 
    test/certify_table(x,hnm4lcp,pathlcp,lcpsolve)
 
-The results of the codes Hnm4lcp (if hnm4lcp == true), Pathlcp (if
+The results of the codes `Hnm4lcp` (if hnm4lcp == true), Pathlcp (if
 pathlcp == true) and LCPsolve (if lcpsolve == true) are given, hence
 depending on the values of the optional logical variables 'hnm4lcp',
 'pathlcp' and 'lcpsolve'. Of course, if the results of Pathlcp and
@@ -81,7 +81,7 @@ distributed.
 
 ## Download
 
-The code Hnm4lcp can be downloaded in a number of manners:
+The code `Hnm4lcp` can be downloaded in a number of manners:
 - from personal: https://who.rocq.inria.fr/Jean-Charles.Gilbert/codes/hnm4lcp/hnm4lcp.html
 - from Github:   https://github.com/gilbert-jch/hnm4lcp
 - from HAL:      https://hal.science/hal-04799965v1 (soon)
