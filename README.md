@@ -34,8 +34,8 @@ The code is assessed in section 4 of the paper (called DFG paper below)
    Mathematical Programming (in revision). See also
    http://hal.inria.fr/hal-02306526.
 
-The code has been developed with the `Matlab` version '9.11.0.1837725
-(R2021b) Update 2'.
+The code has been developed with the `Matlab` version `9.11.0.1837725
+(R2021b) Update 2`.
 
 
 ## Directory content
