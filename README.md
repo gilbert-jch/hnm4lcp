@@ -13,7 +13,7 @@ system means that the sought $x$ must be nonnegative componentwise ($x
 \geq 0$ or $x_i\geq0$ for all $i\in[1:n]$), $y := Mx+q$ must be
 nonnegative componentwise ($y \geq 0$ or $y_i\geq0$ for all $i\in[1:n]$)
 and $x$ and $y$ must be perpendicular for the Euclidean scalar product
-($x^\mathsf{T}y = 0$ or $\sum_{i\in[1:n]}x_iy_i=0$).
+($x^\mathsf{T}y = 0$ or $x_1y_1+\cdots+x_ny_n=0$).
 
 It is assumed that M is nondegenerate, meaning that all its principal
 minors are nonzero (i.e., det(M(I,I)) ~= 0 for all I in [1:n]). There is
