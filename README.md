@@ -4,9 +4,8 @@
 of the form
 
 $$
-0 =< x \perp (M*x+q) >= 0,
+0 \leq x \perp (Mx+q) \geq 0,
 $$
-
 where x in Rn is the real vector of unknowns, M in Rnxn and q in Rn is
 the data. This system means that the sought x must be nonnegative
 componentwise (x ≥ 0), y := M*x+q must be nonnegative componentwise (y ≥
