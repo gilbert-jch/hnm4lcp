@@ -100,9 +100,9 @@ The code `Hnm4lcp` can be downloaded in a number of manners:
 
 ### Additiional information
 
-- This code is maintained by <a
+- This code is mainly maintained by <a
   href="https://who.rocq.inria.fr/Jean-Charles.Gilbert/"
-  target="_blank">Jean-Charles Gilbert</a>.
+  target="_blank">Jean Charles Gilbert</a>.
 - A close `Julia` version of this `Matlab` function can be found in
   <https://github.com/vepiteski/HNM4CP.jl>.
 
