@@ -17,8 +17,8 @@ and $x$ and $y$ must be perpendicular for the Euclidean scalar product
 
 It is assumed that $M$ is nondegenerate, meaning that all its principal
 minors are nonzero (i.e., $\det(M_{I,I}) \ne 0$ for all $I\subset
-[1:n]$). There is no verification of this property (this is too
-expensive) and there is no provision in the code to deal with a
+[1:n]$). There is no verification of this property by the code (this is
+too expensive) and there is no provision in the code to deal with a
 degenerate $M$. The standard LCP has a unique solution whatever $q$ is
 if and only if $M$ is a P-matrix (meaning that its principal minors are
 positive: $\det(M_{I,I}) > 0$ for all $I\subset [1:n]$).
