@@ -7,11 +7,12 @@ $$
 0 \leq x \perp (Mx+q) \geq 0,
 $$
 
-where $x \in \mathbb{R}^n$ is the real vector of unknowns, M in Rnxn and q in Rn is
-the data. This system means that the sought x must be nonnegative
-componentwise (x ≥ 0), y := M*x+q must be nonnegative componentwise (y ≥
-0) and x and y must be perpendicular for the Euclidean scalar product
-(x'*y = 0 or x.*y = 0).
+where $x \in \mathbb{R}^n$ is the real vector of unknowns, $M \in
+\mathbb{R}^{n\times n}$ and $q \in \mathbb{R}^n$ is the data. This
+system means that the sought $x$ must be nonnegative componentwise ($x
+\geq 0$), $y := Mx+q$ must be nonnegative componentwise ($y \geq 0$) and
+$x$ and $y$ must be perpendicular for the Euclidean scalar product
+($x^\mathsf{T}y = 0$).
 
 It is assumed that M is nondegenerate, meaning that all its principal
 minors are nonzero (i.e., det(M(I,I)) ~= 0 for all I in [1:n]). There is
