@@ -58,8 +58,8 @@ can be obtained by running the script
 
 >  test/certify_table(x,hnm4lcp,pathlcp,lcpsolve)
 
-The results of the codes `Hnm4lcp` (if hnm4lcp == true), Pathlcp (if
-pathlcp == true) and LCPsolve (if lcpsolve == true) are given, hence
+The results of the codes `Hnm4lcp` (if `hnm4lcp == true`), Pathlcp (if
+`pathlcp == true`) and LCPsolve (if `lcpsolve == true`) are given, hence
 depending on the values of the optional logical variables 'hnm4lcp',
 'pathlcp' and 'lcpsolve'. Of course, if the results of Pathlcp and
 LCPsolve are required, these pieces of software must have been
@@ -75,7 +75,7 @@ see the DFG paper.
 
 The problems can also be run individually using
 
->  test/main.m
+>  `test/main.m`
 
 but this script has not been cleaned up and is more messy.
 
