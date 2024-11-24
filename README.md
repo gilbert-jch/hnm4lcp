@@ -27,7 +27,7 @@ all $I\subset [1:n]$).
 
 More is said on the use of the code in the introduction of
 <tt>src/hnm4lcp.m</tt>, which can also be obtained by typing `help
-hnm4lcp` in a `Matlab` window.
+`Hnm4lcp` in a `Matlab` window.
 
 The code is assessed in section 4 of the paper (called DFG paper below)
 
@@ -49,7 +49,7 @@ This directory is structured as follows:
 - LICENSE: license of the code
 - VERSIONS: description of the successive changes in the code
 - src: contains the source codes in `Matlab`,
-- test: contains some test-cases for hnm4lcp and scripts to run them.
+- test: contains some test-cases for `Hnm4lcp` and scripts to run them.
 
 
 ### Reproducing the paper tables
