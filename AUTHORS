@@ -1,0 +1,21 @@
+Authors of the Hnm4lcp function
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Jean-Pierre Dussault
+Département d'Informatique, Faculté des Sciences, Université de Sherbrooke, Québec, Canada
+Jean-Pierre.Dussault@Usherbrooke.ca
+ORCID 0000-0001-7253-7462
+
+Jean Charles Gilbert
+INRIA (centre de recherche Inria de Paris, équipe-projet Serena), 48 rue Barrault, CS 61534, 75647 PARIS Cedex, France
+Département de Mathématiques, Faculté des Sciences, Université de Sherbrooke, Québec, Canada
+Jean-Charles.Gilbert@inria.fr
+ORCID 0000-0002-0375-4663
+
+Associated publication
+^^^^^^^^^^^^^^^^^^^^^^
+The code is assessed in section 4 of the paper
+
+   Jean-Pierre Dussault, Mathieu Frappier, Jean Charles Gilbert (2024).
+   'Polyhedral {Newton}-min algorithms for complementarity problems',
+   Mathematical Programming (in revision). See also
+   http://hal.inria.fr/hal-02306526/en.

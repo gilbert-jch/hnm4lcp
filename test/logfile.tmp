@@ -1,0 +1,23 @@
+Path 5.0.05: Matlab Link
+1024 row/cols, 524800 non-zeros, 50.05% dense.
+
+Could not open options file: path.opt
+Using defaults.
+Path 5.0.05 (Wed Jun 23 14:34:56 2021)
+Written by Todd Munson, Steven Dirkse, Youngdae Kim, and Michael Ferris
+
+MCPR: One:    0 Two:    0 Thr:    0 Qua:    0 WBd:    0 Fix: 1024 IFx:    0
+
+ ** EXIT - solution found.
+
+Major Iterations. . . . 0
+Minor Iterations. . . . 0
+Restarts. . . . . . . . 0
+Crash Iterations. . . . 0
+Gradient Steps. . . . . 0
+Function Evaluations. . 0
+Gradient Evaluations. . 0
+Basis Time. . . . . . . 0.000000
+Total Time. . . . . . . 0.069626
+Residual. . . . . . . . 0.000000e+00
+Postsolved residual: 0.0000e+00
