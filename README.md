@@ -15,6 +15,14 @@ componentwise ($y_i\geq0$ for all $i\in[1:n]$) and $x$ and $y$ must be
 perpendicular for the Euclidean scalar product ($x^\mathsf{T}y = 0$ or
 $x_1y_1+\cdots+x_ny_n=0$).
 
+This type of problem appears in the optimality conditions of a quadratic
+optimization problem, in nonsmooth mechanics (in robotics in
+particular), can express dissolution-precipitation phenomena in
+chemistry, in multiphase flows, in meteorology, etc.
+
+
+### Techical aspects
+
 It is assumed that $M$ is <em>nondegenerate</em>, meaning that all its
 principal minors are nonzero (i.e., $\det(M_{I,I}) \ne 0$ for all
 $I\subset [1:n]$). There is no verification of this property by the code
