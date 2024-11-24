@@ -58,13 +58,13 @@ can be obtained by running the script
 
 >  test/certify_table(x,hnm4lcp,pathlcp,lcpsolve)
 
-The results of the codes `Hnm4lcp` (if `hnm4lcp == true`), Pathlcp (if
-`pathlcp == true`) and LCPsolve (if `lcpsolve == true`) are given, hence
-depending on the values of the optional logical variables `hnm4lcp`,
-`pathlcp` and `lcpsolve`. Of course, if the results of Pathlcp and
-LCPsolve are required, these pieces of software must have been
-installed. At the time this text was written, these pieces of software
-were available at the addresses
+The results of the codes `Hnm4lcp` (if `hnm4lcp == true`), `Pathlcp` (if
+`pathlcp == true`) and `LCPsolve` (if `lcpsolve == true`) are given,
+hence depending on the values of the optional logical variables
+`hnm4lcp`, `pathlcp` and `lcpsolve`. Of course, if the results of
+`Pathlcp` and `LCPsolve` are required, these pieces of software must
+have been installed. At the time this text was written, these pieces of
+software were available at the addresses
 
 >  https://pages.cs.wisc.edu/~ferris/path.html<br>
 >  http://github.com/erleben/num4lcp
