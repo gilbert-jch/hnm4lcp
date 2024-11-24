@@ -1,4 +1,4 @@
-## Description of the function
+### Description of the function
 
 `Hnm4lcp` is a `Matlab` function that can solve a linear complementarity
 problem (LCP) in its standard form, which reads
@@ -38,7 +38,7 @@ The code has been developed with the `Matlab` version `9.11.0.1837725
 (R2021b) Update 2`.
 
 
-## Directory content
+### Directory content
 
 This directory is structured as follows:
 - AUTHORS: authors of the code
@@ -49,7 +49,7 @@ This directory is structured as follows:
 - test: contains some test-cases for hnm4lcp and scripts to run them.
 
 
-## Reproducing the paper tables
+### Reproducing the paper tables
 
 An ascii version of (part of) table 4.x (for x in [1:10]) of the [DFG
 paper](http://hal.inria.fr/hal-02306526) can be obtained by running the
@@ -79,13 +79,13 @@ The problems can also be run individually using
 but this script has not been cleaned up and is more messy.
 
 
-## License
+### License
 
 QPLicense.txt describes the QPL license under which the codes are
 distributed.
 
 
-## Download
+### Download
 
 The code `Hnm4lcp` can be downloaded in a number of manners:
 - from personal: https://who.rocq.inria.fr/Jean-Charles.Gilbert/codes/hnm4lcp/hnm4lcp.html
