@@ -43,7 +43,7 @@ The code has been developed with the `Matlab` version `9.11.0.1837725
 
 ### Directory content
 
-This directory is structured as follows:
+This directory contains the following files and directories:
 - AUTHORS: authors of the code
 - README: this file
 - LICENSE: license of the code
