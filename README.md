@@ -97,6 +97,15 @@ The code `Hnm4lcp` can be downloaded in a number of manners:
 - from HAL:      https://hal.science/hal-04799965v1 (soon)
 - from SWH:      (soon)
 
+
+### Additiional information
+
+- This code is maintained by <a
+  href="https://who.rocq.inria.fr/Jean-Charles.Gilbert/">Jean-Charles
+  Gilbert</a>.
+- A close `Julia` version of this `Matlab` function can be found in
+  <https://github.com/vepiteski/HNM4CP.jl>.
+
 ------------------------------------------------------------------------
 
 November 24, 2024
