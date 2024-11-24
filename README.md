@@ -105,8 +105,9 @@ The code `Hnm4lcp` can be downloaded in a number of manners:
   target="_blank">Jean Charles Gilbert</a>.
 - A close `Julia` version of this `Matlab` function is maintained by <a
   href="jean-pierre.dussault@usherbrooke.ca" target="_blank">Jean-Pierre
-  Dussault</a> and can be found in
-  <https://github.com/vepiteski/HNM4CP.jl>.
+  Dussault</a> and can be found on <a
+  href="https://github.com/vepiteski/HNM4CP.jl"
+  target="_blank">Github</a>.
 
 ------------------------------------------------------------------------
 
