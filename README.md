@@ -1,9 +1,11 @@
 ## Description of the function
 
-`Hnm4lcp` is a Matlab code to solve a linear complementarity problem (LCP)
+`Hnm4lcp` is a `Matlab` code to solve a linear complementarity problem (LCP)
 of the form
 
->  0 =< x _|_ (M*x+q) >= 0,
+$$
+0 =< x \perp (M*x+q) >= 0,
+$$
 
 where x in Rn is the real vector of unknowns, M in Rnxn and q in Rn is
 the data. This system means that the sought x must be nonnegative
@@ -20,7 +22,7 @@ are positive: det(M(I,I)) > 0 for all I in [1:n]).
 
 More is said on the use of the code in the introduction of
 src/hnm4lcp.m, which can also be obtained by typing 'help hnm4lcp' in a
-Matlab window.
+`Matlab` window.
 
 The code is assessed in section 4 of the paper (called DFG paper below)
 
@@ -29,7 +31,7 @@ The code is assessed in section 4 of the paper (called DFG paper below)
    Mathematical Programming (in revision). See also
    http://hal.inria.fr/hal-02306526.
 
-The code has been developed with the Matlab version '9.11.0.1837725
+The code has been developed with the `Matlab` version '9.11.0.1837725
 (R2021b) Update 2'.
 
 
@@ -40,7 +42,7 @@ This directory is structured as follows:
 - README: this file
 - LICENSE: license of the code
 - VERSIONS: description of the successive changes in the code
-- src: contains the source codes in Matlab,
+- src: contains the source codes in `Matlab`,
 - test: contains some test-cases for hnm4lcp and scripts to run them.
 
 
