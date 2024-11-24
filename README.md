@@ -27,7 +27,7 @@ all $I\subset [1:n]$).
 
 More is said on the use of the code in the introduction of
 <tt>src/hnm4lcp.m</tt>, which can also be obtained by typing `help
-`Hnm4lcp` in a `Matlab` window.
+hnm4lcp` in a `Matlab` window.
 
 The code is assessed in section 4 of the paper (called DFG paper below)
 
