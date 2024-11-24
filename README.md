@@ -7,7 +7,7 @@ $$
 0 \leq x \perp (Mx+q) \geq 0,
 $$
 
-where $x \in \mathbb{R}^n$ is the real vector of unknowns, $M \in
+where $x \in \mathbb{R}^n$ is the real vector of unknowns, while $M \in
 \mathbb{R}^{n\times n}$ and $q \in \mathbb{R}^n$ is the data. This
 system means that the sought $x$ must be nonnegative componentwise ($x
 \geq 0$), $y := Mx+q$ must be nonnegative componentwise ($y \geq 0$) and
