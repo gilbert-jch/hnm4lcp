@@ -1,13 +1,13 @@
 ## Description of the function
 
-`Hnm4lcp` is a `Matlab` code to solve a linear complementarity problem (LCP)
-of the form
+`Hnm4lcp` is a `Matlab` function that can solve a linear complementarity
+problem (LCP), which is a propbem of the form
 
 $$
 0 \leq x \perp (Mx+q) \geq 0,
 $$
 
-where x in Rn is the real vector of unknowns, M in Rnxn and q in Rn is
+where $x \in \mathbb{R}^n$ is the real vector of unknowns, M in Rnxn and q in Rn is
 the data. This system means that the sought x must be nonnegative
 componentwise (x ≥ 0), y := M*x+q must be nonnegative componentwise (y ≥
 0) and x and y must be perpendicular for the Euclidean scalar product
