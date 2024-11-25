@@ -148,10 +148,10 @@ will also be considered
 </ul>
 
 $$
-\left\{\begin{array}{l}
+\begin{cases}
 Ex = e,\\
 0 \leq (Ax+a) \perp (Bx+b) \geq 0,
-\end{array}\right.
+\end{cases}
 $$
 
 
