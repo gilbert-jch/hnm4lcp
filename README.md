@@ -142,9 +142,18 @@ $$
 <ul>
 
 where $A$ and $B\in\mathbb{R}^{n\times n}$, while $a$ and
-$b\in\mathbb{R}^n$.
+$b\in\mathbb{R}^n$. The following mexte linear complementarity problem
+will also be considered
 
 </ul>
+
+$$
+\left\{\begin{array}{l}
+Ex = e,\\
+0 \leq (Ax+a) \perp (Bx+b) \geq 0,
+\end{array}\right.
+$$
+
 
 
 ------------------------------------------------------------------------
