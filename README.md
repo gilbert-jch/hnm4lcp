@@ -27,11 +27,11 @@ It is assumed that $M$ is <em>nondegenerate</em>, meaning that all its
 principal minors are nonzero (i.e., $\det(M_{I,I}) \ne 0$ for all
 $I\subset [1:n]$). There is no verification of this property by the code
 (this is too expensive) and there is no provision in the code to deal
-with a degenerate $M$: if $M_{I,I}$ is singular for some $I$ considered
-at some iteration, the code just stops. Recall that the standard LCP
-above has a unique solution whatever $q$ is if and only if $M$ is a
-<em>P-matrix</em> (meaning that its principal minors are positive:
-$\det(M_{I,I}) > 0$ for all $I\subset [1:n]$).
+with a degenerate $M$: if $M_{I,I}$ is singular for some $I$ generated
+by the algorithm at some iteration, the code just stops. Recall that the
+standard LCP above has a unique solution whatever $q$ is if and only if
+$M$ is a <em>P-matrix</em> (meaning that its principal minors are
+positive: $\det(M_{I,I}) > 0$ for all $I\subset [1:n]$).
 
 More is said on the use of the code in the introduction of
 <code>src/hnm4lcp.m</code>, which can also be obtained by typing `help
