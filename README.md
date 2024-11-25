@@ -112,7 +112,7 @@ manners:
 
 ### Additiional information
 
-- This code is mainly maintained by <a
+- This site is mainly maintained by <a
   href="https://who.rocq.inria.fr/Jean-Charles.Gilbert/"
   target="_blank">Jean Charles Gilbert</a>.
 - A close `Julia` version of this `Matlab` function is maintained by <a
