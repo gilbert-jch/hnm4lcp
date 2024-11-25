@@ -100,15 +100,15 @@ distributed.
 
 ### Download
 
-The `Matlab` function `hnm4lcp` can be downloaded in a number of
+The `Matlab` function `hnm4lcp` can be downloaded from
 manners:
-- from a <a
+- a <a
   href="https://who.rocq.inria.fr/Jean-Charles.Gilbert/codes/hnm4lcp/hnm4lcp.html"
   target="_blank">personal site</a>,
-- from <a href="https://github.com/gilbert-jch/hnm4lcp"
+- <a href="https://github.com/gilbert-jch/hnm4lcp"
   target="_blank">Github</a> (this site),
-- from <a href="https://hal.science/hal-04799965v1">HAL</a>,
-- from <a href="https://archive.softwareheritage.org/browse/directory/7d600e80e4d08377f62b85a95e9de8a1e4ae9500/?origin_url=https://hal.archives-ouvertes.fr/hal-04799965&release=HEAD&snapshot=60509c3e42a5d919b62e694f7078a2b3aba2a0a8">SWH</a>.
+- <a href="https://hal.science/hal-04799965v1">HAL</a>,
+- <a href="https://archive.softwareheritage.org/browse/directory/7d600e80e4d08377f62b85a95e9de8a1e4ae9500/?origin_url=https://hal.archives-ouvertes.fr/hal-04799965&release=HEAD&snapshot=60509c3e42a5d919b62e694f7078a2b3aba2a0a8">SWH</a>.
 
 
 ### Additional information
