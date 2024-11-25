@@ -107,8 +107,7 @@ manners:
   target="_blank">personal site</a>,
 - from <a href="https://github.com/gilbert-jch/hnm4lcp"
   target="_blank">Github</a> (this site),
-- from <a href="https://hal.science/hal-04799965v1">HAL</a> (soon),
-- from SWH (soon)
+- from <a href="https://hal.science/hal-04799965v1">HAL and SWH</a>.
 
 
 ### Additional information
