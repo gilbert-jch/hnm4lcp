@@ -86,9 +86,9 @@ target="_blank">DFG paper</a>.
 
 The problems can also be run individually using
 
->  `test/main.m`
+>  `main.m`
 
-but this script has not been cleaned up and is more messy.
+in the <tt>test</tt> directory, but this script has not been cleaned up and is more messy.
 
 
 ### License
