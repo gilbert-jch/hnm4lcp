@@ -133,9 +133,13 @@ target="_blank">Github</a>.
 Extensions of the present problem will deal with the balanced linear
 complementarity problem
 
+</ul>
+
 $$
 0 \leq (Ax+a) \perp (Bx+b) \geq 0,
 $$
+
+<ul>
 
 where $A$ and $B\in\mathbb{R}^{n\times n}$, while $a$ and
 $b\in\mathbb{R}^n$.
