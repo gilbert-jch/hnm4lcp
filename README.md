@@ -156,8 +156,9 @@ $$
 
 <ul>
 
-where $E\in\mathbb{R}^{m\times n}$, $e\in\mathbb{R}^e$, $A$ and
-$B\in\mathbb{R}^{(n-m)\times n}$, while $a$ and $b\in\mathbb{R}^{n-m}$.
+where $E\in\mathbb{R}^{m\times n}$ with $m\leq n$, $e\in\mathbb{R}^m$,
+$A$ and $B\in\mathbb{R}^{(n-m)\times n}$, while $a$ and
+$b\in\mathbb{R}^{n-m}$.
 
 </ul>
 
