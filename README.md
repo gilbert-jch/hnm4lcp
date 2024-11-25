@@ -1,6 +1,6 @@
 ### Description of the function
 
-`Hnm4lcp` is a `Matlab` function that computes a or the solution to a
+`Hnm4lcp` is a `Matlab` function that computes one or the solution to a
 linear complementarity problem (LCP) in its standard form, which reads
 
 $$
