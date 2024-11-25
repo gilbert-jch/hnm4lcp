@@ -117,7 +117,7 @@ The `Matlab` function `hnm4lcp` can be downloaded from
 <li>
 
 This site is mainly maintained by <a
-href="https://who.rocq.inria.fr/Jean-Charles.Gilbert/"
+href="https://who.rocq.inria.fr/Jean-Charles.Gilbert/mypage.html"
 target="_blank">Jean Charles Gilbert</a>.
 
 <li>
