@@ -80,9 +80,9 @@ written, these pieces of software were available at the addresses
 >  http://github.com/erleben/num4lcp
 
 The generation of some tables takes much computing time. For the
-description of the problems and for the meaning of columns of the table,
-see the <a href="http://hal.inria.fr/hal-02306526" target="_blank">DFG
-paper</a>.
+description of the problems and for the meaning of the columns of the
+table, see the <a href="http://hal.inria.fr/hal-02306526"
+target="_blank">DFG paper</a>.
 
 The problems can also be run individually using
 
