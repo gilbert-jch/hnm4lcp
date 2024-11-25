@@ -142,7 +142,7 @@ $$
 <ul>
 
 where $A$ and $B\in\mathbb{R}^{n\times n}$, while $a$ and
-$b\in\mathbb{R}^n$. The following mexte linear complementarity problem
+$b\in\mathbb{R}^n$. The following mixte linear complementarity problem
 will also be considered
 
 </ul>
@@ -153,6 +153,13 @@ Ex = e,\\
 0 \leq (Ax+a) \perp (Bx+b) \geq 0,
 \end{cases}
 $$
+
+<ul>
+
+where $E\in\mathbb{R}^{m\times n}$, $e\in\mathbb{R}^e$, $A$ and
+$B\in\mathbb{R}^{(n-m)\times n}$, while $a$ and $b\in\mathbb{R}^{n-m}$.
+
+</ul>
 
 
 
