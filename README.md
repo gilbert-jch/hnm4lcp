@@ -88,7 +88,8 @@ The problems can also be run individually using
 
 >  `main.m`
 
-in the <tt>test</tt> directory, but this script has not been cleaned up and is more messy.
+in the <tt>test</tt> directory, but this script has not been cleaned up
+and is more messy.
 
 
 ### License
@@ -130,7 +131,7 @@ target="_blank">Github</a>.
 
 <li>
 
-Extensions of the present problem will deal with the balanced linear
+An extension of the present function will deal with the balanced linear
 complementarity problem
 
 </ul>
