@@ -123,7 +123,7 @@ target="_blank">Jean Charles Gilbert</a>.
 <li>
 
 A close `Julia` version of this `Matlab` function is maintained by <a
-href="jean-pierre.dussault@usherbrooke.ca" target="_blank">Jean-Pierre
+href="https://github.com/vepiteski" target="_blank">Jean-Pierre
 Dussault</a> and can be found on <a
 href="https://github.com/vepiteski/HNM4CP.jl"
 target="_blank">Github</a>.
