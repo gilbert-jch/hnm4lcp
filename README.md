@@ -110,7 +110,7 @@ manners:
 - from SWH (soon)
 
 
-### Additiional information
+### Additional information
 
 - This site is mainly maintained by <a
   href="https://who.rocq.inria.fr/Jean-Charles.Gilbert/"
@@ -120,6 +120,16 @@ manners:
   Dussault</a> and can be found on <a
   href="https://github.com/vepiteski/HNM4CP.jl"
   target="_blank">Github</a>.
+- Extensions of the present problem will deal with the balanced linear
+  complementarity problem
+
+$$
+0 \leq (Ax+a) \perp (Bx+b) \geq 0,
+$$
+
+  where $A$ and $B\in\mathbb{R}^{n\times n}$, while $a$ and
+  $b\in\mathbb{R}^n$.
+
 
 ------------------------------------------------------------------------
 
