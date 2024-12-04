@@ -74,7 +74,7 @@ course, if the results of `Pathlcp` and `LCPsolve` are required, these
 pieces of software must have been installed. At the time this text was
 written, these pieces of software were available at the addresses
 
-	https://pages.cs.wisc.edu/~ferris/path.html<br>
+	https://pages.cs.wisc.edu/~ferris/path.html
 	http://github.com/erleben/num4lcp
 
 The generation of some tables takes much computing time. For the
