@@ -53,7 +53,7 @@ The code has been developed with the `Matlab` version `9.11.0.1837725
 
 This directory contains the following files and directories:
 - AUTHORS: authors of the code
-- README: this file
+- README.md: this file
 - LICENSE: license of the code
 - VERSIONS: description of the successive changes in the code
 - src: contains the source codes in `Matlab`,
