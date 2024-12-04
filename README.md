@@ -68,7 +68,7 @@ can be obtained by running the script
 
 >  <tt>certify_table (x, hnm4lcp, pathlcp, lcpsolve)</tt>
 
-	<tt>certify_table (x, hnm4lcp, pathlcp, lcpsolve)</tt>
+	certify_table (x, hnm4lcp, pathlcp, lcpsolve)
 
 in the <tt>test</tt> directory. The results of the codes `Hnm4lcp` (if
 `hnm4lcp == true`), `Pathlcp` (if `pathlcp == true`) and `LCPsolve` (if
@@ -88,7 +88,7 @@ target="_blank">DFG paper</a>.
 
 The problems can also be run individually using
 
->  `main.m`
+	`main.m`
 
 in the <tt>test</tt> directory, but this script has not been cleaned up
 and is more messy.
