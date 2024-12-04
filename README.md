@@ -39,11 +39,9 @@ hnm4lcp` in a `Matlab` window.
 
 The code is assessed in section 4 of the paper (called DFG paper below)
 
->  Jean-Pierre Dussault, Mathieu Frappier, Jean Charles Gilbert (2024).
-   'Polyhedral {Newton}-min algorithms for complementarity problems',
-   Mathematical Programming (in revision). See also <a
-   href="http://hal.inria.fr/hal-02306526"
-   target="_blank">http://hal.inria.fr/hal-02306526</a>.
+	Jean-Pierre Dussault, Mathieu Frappier, Jean Charles Gilbert (2024). 'Polyhedral {Newton}-min algorithms
+	for complementarity problems', Mathematical Programming (in revision). See also <a
+	href="http://hal.inria.fr/hal-02306526" target="_blank">http://hal.inria.fr/hal-02306526</a>.
 
 The code has been developed with the `Matlab` version `9.11.0.1837725
 (R2021b) Update 2`.
@@ -65,8 +63,6 @@ This directory contains the following files and directories:
 An ascii version of (part of) table 4.x (for x in [1:10]) of the <a
 href="http://hal.inria.fr/hal-02306526" target="_blank">DFG paper</a>
 can be obtained by running the script
-
->  <tt>certify_table (x, hnm4lcp, pathlcp, lcpsolve)</tt>
 
 	certify_table (x, hnm4lcp, pathlcp, lcpsolve)
 
