@@ -68,6 +68,8 @@ can be obtained by running the script
 
 >  <tt>certify_table (x, hnm4lcp, pathlcp, lcpsolve)</tt>
 
+   <tt>certify_table (x, hnm4lcp, pathlcp, lcpsolve)</tt>
+
 in the <tt>test</tt> directory. The results of the codes `Hnm4lcp` (if
 `hnm4lcp == true`), `Pathlcp` (if `pathlcp == true`) and `LCPsolve` (if
 `lcpsolve == true`) are given, hence depending on the values of the
