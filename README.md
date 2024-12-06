@@ -143,7 +143,7 @@ $$
 <ul>
 
 where, on the one hand, $A$ and $B\in\mathbb{R}^{n\times n}$, while $a$
-and $b\in\mathbb{R}^n$, and, on the other hand, the $M_i$' are in
+and $b\in\mathbb{R}^n$, and, on the other hand, the $M_i$'s are in
 $\mathbb{R}^{n\times n}$ and the $q_i$'s are in $\mathbb{R}^n$. The
 following mixte linear complementarity problem will also be considered
 
