@@ -154,13 +154,19 @@ $$
 Ex = e,\\
 0 \leq (Ax+a) \perp (Bx+b) \geq 0,
 \end{cases}
+\qquad\mbox{and}\qquad
+\begin{cases}
+Ex = e,\\
+\min(M_1x+q_1,…,M_px+q_p)=0,
+\end{cases}
 $$
 
 <ul>
 
 where $E\in\mathbb{R}^{m\times n}$ with $m\leq n$, $e\in\mathbb{R}^m$,
-$A$ and $B\in\mathbb{R}^{(n-m)\times n}$, while $a$ and
-$b\in\mathbb{R}^{n-m}$.
+$A$ and $B\in\mathbb{R}^{(n-m)\times n}$, $a$ and
+$b\in\mathbb{R}^{n-m}$, he $M_i$'s are in $\mathbb{R}^{m\times n}$ and
+the $q_i$'s are in $\mathbb{R}^m$.
 
 </ul>
 
