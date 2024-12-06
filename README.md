@@ -165,7 +165,7 @@ $$
 
 where $E\in\mathbb{R}^{m\times n}$ with $m\leq n$, $e\in\mathbb{R}^m$,
 $A$ and $B\in\mathbb{R}^{(n-m)\times n}$, $a$ and
-$b\in\mathbb{R}^{n-m}$, he $M_i$'s are in $\mathbb{R}^{m\times n}$ and
+$b\in\mathbb{R}^{n-m}$, the $M_i$'s are in $\mathbb{R}^{m\times n}$ and
 the $q_i$'s are in $\mathbb{R}^m$.
 
 </ul>
