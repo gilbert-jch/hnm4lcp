@@ -129,13 +129,15 @@ target="_blank">Github</a>.
 
 <li>
 
-An extension of the present function will deal with the balanced linear
-complementarity problem
+Extensions of the present function will deal with the ``balanced linear
+complementarity problem`` and the ``vertical linear complementarity problem``
 
 </ul>
 
 $$
-0 \leq (Ax+a) \perp (Bx+b) \geq 0,
+0 \leq (Ax+a) \perp (Bx+b) \geq 0
+\qquad\mbox{and}\qquad
+\min(M_1x+q_1,…,M_px+q_p)=0,
 $$
 
 <ul>
