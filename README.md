@@ -85,7 +85,7 @@ target="_blank">DFG paper</a>.
 
 The problems can also be run individually using
 
-	`main.m`
+	main.m
 
 in the <tt>test</tt> directory, but this script has not been cleaned up
 and is more messy.
